@@ -1,0 +1,11 @@
+.sidebar {
+	background-color: #0c50ac;
+}
+
+.sidebar .sidebar-brand {
+	color: #ffff00;
+}
+
+.carousel .carousel-caption a h5{
+	color: #fff;
+}
